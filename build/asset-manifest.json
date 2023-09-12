@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1200f08.css",
+    "main.js": "/static/js/main.262c211a.js",
+    "static/js/787.f242d62a.chunk.js": "/static/js/787.f242d62a.chunk.js",
+    "static/media/pexels-engin-akyurt-2271106.jpg": "/static/media/pexels-engin-akyurt-2271106.c66dd3cb059f1e398c56.jpg",
+    "static/media/pexels-seyed-ali-hosseini-2331536.jpg": "/static/media/pexels-seyed-ali-hosseini-2331536.1839778a8fc085345b93.jpg",
+    "static/media/coca.png": "/static/media/coca.e721bac52f2dd68b6136.png",
+    "static/media/pngfind.com-kfc-png-1264238.png": "/static/media/pngfind.com-kfc-png-1264238.77a67896215d7a45b56e.png",
+    "static/media/pexels-marcos-kohler-17182466.jpg": "/static/media/pexels-marcos-kohler-17182466.5a1e3c37ae78a1bf5760.jpg",
+    "static/media/Bacon-Cheese-Burger-Transparent-Background.png": "/static/media/Bacon-Cheese-Burger-Transparent-Background.2e9a988a5503733bd862.png",
+    "static/media/s1.png": "/static/media/s1.8a4fa4559949141455f1.png",
+    "static/media/s2.png": "/static/media/s2.b0665d1810c1ae19dfa3.png",
+    "static/media/icee.jpg": "/static/media/icee.4376359e80865c614b24.jpg",
+    "static/media/water.jpg": "/static/media/water.335abd417dccca54850d.jpg",
+    "index.html": "/index.html",
+    "main.e1200f08.css.map": "/static/css/main.e1200f08.css.map",
+    "main.262c211a.js.map": "/static/js/main.262c211a.js.map",
+    "787.f242d62a.chunk.js.map": "/static/js/787.f242d62a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1200f08.css",
+    "static/js/main.262c211a.js"
+  ]
+}

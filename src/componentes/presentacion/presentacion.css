@@ -1,0 +1,13 @@
+
+
+.carouseldiv {
+    overflow: clip;
+
+  }
+
+.carouseldiv img {
+width: 40%;
+height: 40%;
+ object-fit: scale-down;
+
+  }

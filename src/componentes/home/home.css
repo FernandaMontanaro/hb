@@ -1,0 +1,7 @@
+.contenedor-home{
+    color:rgb(229, 255, 0);
+    display: flex;
+    justify-content: center;
+    padding: 0  8%;
+
+}
